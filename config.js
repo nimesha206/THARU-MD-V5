@@ -5,7 +5,7 @@ THARU-MD
 SESSION_ID: process.env.SESSION_ID || "MONEY-HEIST-MD-TcUBSTQD#EBrgIauEPN5ygRoZSiAqu1difqyx94ot2QFvDvtGPvw-DILALK", 
 MONGODB: process.env.MONGODB || "mongodb+srv://nimesha00:<db_password>@cluster0.yn6fdfq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
 HEROKU_API: process.env.HEROKU_API || "HRKU-ed5c6fb8-14b9-4e21-b652-0df45300750f",
-OWNER_NUMBER:process.env.OWNER_NUMBER || "",
+OWNER_NUMBER:process.env.OWNER_NUMBER || "94789549564",
 
 //Github Workflows Deploy කරනව නම් පමනක් පහත Env යෙදිය යුතුය!
 GITHUB_TOKEN: process.env.GITHUB_TOKEN || "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",
