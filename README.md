@@ -1,102 +1,102 @@
 <div class="repo" align="center">
  
   <a href="#">
-    <img src="https://drive.google.com/uc?export=download&id=14tDcgjNFF1r802bzZs1wwjsmNW4hsPYG" width="300" height="200" alt="MONEY HEIST MD"></img>
+    <img src="https://files.catbox.moe/boiciy.jpg" width="300" height="200" alt="THARU MD V5"></img>
     <p align="center">
-      <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&multiline=false&lines=MONEY+HEIST+MD+WHATSAPP+BOT" alt="Typing SVG"></a>
+      <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&multiline=false&lines=THARU+MD+V5+WHATSAPP+BOT" alt="Typing SVG"></a>
     </p>
     <p align="center">
-      <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MrDila-white.svg?style=for-the-badge&logo=github&color=white" alt="Creator Badge"></a>
-      <a href="https://youtube.com/@dila_lk">
+      <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MrNIMA-white.svg?style=for-the-badge&logo=github&color=white" alt="Creator Badge"></a>
+      <a href="https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH">
         <img title="YouTube Channel" src="https://img.shields.io/badge/YouTube-Subscribe-white.svg?style=for-the-badge&logo=youtube&color=red" alt="YouTube Channel">
       </a>
     </p>
     <p align="center">
-      <a href="https://github.com/moneyheistVIP/MONEY-HEIST-VIP">
-        <img title="GitHub Repo Stars" src="https://img.shields.io/github/stars/moneyheistVIP/MONEY-HEIST-VIP?style=flat-square&color=white" alt="Stars">
+      <a href="https://github.com/nimesha206/THARU-MD-V5">
+        <img title="GitHub Repo Stars" src="https://github.com/nimesha206/THARU-MD-V5?style=flat-square&color=white" alt="Stars">
       </a>
-      <a href="https://github.com/moneyheistVIP/MONEY-HEIST-VIP">
+      <a href="https://github.com/nimesha206/THARU-MD-V5">
         <img title="Repo Size" src="https://img.shields.io/github/repo-size/moneyheistVIP/MONEY-HEIST-VIP?style=flat-square&color=white" alt="Size">
       </a>
-      <a href="https://github.com/moneyheistVIP/MONEY-HEIST-VIP/fork">
+      <a href="https://github.com/nimesha206/THARU-MD-V5/fork">
         <img title="Forks" src="https://img.shields.io/github/forks/moneyheistVIP/MONEY-HEIST-VIP?style=flat-square&color=white" alt="Forks">
       </a>
-      <a href="https://github.com/moneyheistVIP/MONEY-HEIST-VIP/watchers">
+      <a href="https://github.com/nimesha206/THARU-MD-V5/watchers">
         <img title="Watching" src="https://img.shields.io/github/watchers/moneyheistVIP/MONEY-HEIST-VIP?style=flat-square&color=white" alt="Watching">
       </a>
-      <a href="https://github.com/moneyheistVIP/MONEY-HEIST-VIP/branches">
+      <a href="https://github.com/nimesha206/THARU-MD-V5/branches">
 
    
   </a>
 </div>
 
 ### Please Read!
-Hi guys, deploy MONEY HEIST MD bot and enjoy using it.
+Hi guys, deploy THARU MD V5 bot and enjoy using it.
 
-[Contact the support group](https://t.me/dilalk) for any issues that arise during the bot creation process. 
+[Contact the support group](https://t.me/SL_CRAZY_BOY) for any issues that arise during the bot creation process. 
 
 ### `VERSION: V1`
 
 #### GitHub Repository
-[Follow Me on GitHub](https://github.com/moneyheistVIP/MONEY-HEIST-VIP)
+[Follow Me on GitHub](https://github.com/nimesha206/THARU-MD-V5)
 
-## How to create MONEY HEIST MD.
+## How to create THARU MD V5.
 **1. You must have these things before deploying:**
 - _GitHub Account._
 - _MongoDB URL (sign up and get MongoDB URL)._
 - _Host._
 
 **2. Deploy steps:**
-- _Fork the  MONEY HEIST MD repository._
+- _Fork the  THARU MD V5 repository._
 - _Link with your WhatsApp using Scan QR code or Pair code._
 - _Open `config.js` on your forked repository. Add `SESSION_ID` and `MONGODB_URL`_
 - _Deploy using your host._
 
 ## 1. FORK REPOSITORY
-<a href="https://github.com/moneyheistVIP/MONEY-HEIST-VIP/fork"> <img src="https://img.shields.io/badge/money_heist_fork-7300d8?style=for-the-badge&color=7300d8&logoColor=black" width="150" height="40" alt="Fork Repository"> </a>
+<a href="https://github.com/nimesha206/THARU-MD-V5/fork"> <img src="https://img.shields.io/badge/money_heist_fork-7300d8?style=for-the-badge&color=7300d8&logoColor=black" width="150" height="40" alt="Fork Repository"> </a>
 
 ## 2. GET PAIR Code Or QR
 <a href="https://moneyheistweb-6dbbc8a1ad4e.herokuapp.com/pair"> <img src="https://img.shields.io/badge/PAIR-d32f2f?style=for-the-badge&color=d32f2f&logoColor=black" width="150" height="40" alt="Get Pair Code"> </a></br>
 <a href="https://moneyheistweb-6dbbc8a1ad4e.herokuapp.com/qr"> <img src="https://img.shields.io/badge/QR-d32f2f?style=for-the-badge&color=d32f2f&logoColor=black" width="150" height="40" alt="Get qr code"> </a>
 </br>
-<a href="https://wa.me/+94777839446?text=.pair"> <img src="https://img.shields.io/badge/COMMAND-d32f2f?style=for-the-badge&color=d32f2f&logoColor=black" width="150" height="40" alt="Get Pair And Qr"> </a>
+<a href="https://wa.me/+94789549564?text=.pair"> <img src="https://img.shields.io/badge/COMMAND-d32f2f?style=for-the-badge&color=d32f2f&logoColor=black" width="150" height="40" alt="Get Pair And Qr"> </a>
 </br>
 
 ## Deploy.
-[![Deploy on Heroku](https://img.shields.io/badge/money_heist_deploy_on_heroku-7300d8?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/moneyheistVIP/MONEY-HEIST-VIP)
+[![Deploy on Heroku](https://img.shields.io/badge/money_heist_deploy_on_heroku-7300d8?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/nimesha206/THARU-MD-V5)
   
-[![Deploy on Railway](https://img.shields.io/badge/Money_HeistMD_deploy_on_railway-00c851?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app?referralCode=Money_Heist)
+[![Deploy on Railway](https://img.shields.io/badge/THARU MD_deploy_on_railway-00c851?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app?referralCode=Money_Heist)
    
 [![Deploy on Replit](https://img.shields.io/badge/Money_Heist_deploy_on_replit-ff4000?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
    
-[![Deploy on Render](https://img.shields.io/badge/Money_Heist_deploy_on_render-3f0f3f?style=for-the-badge&logo=render&logoColor=white)](https://docs.render.com/free)
+[![Deploy on Render](https://img.shields.io/badge/THARU MD_deploy_on_render-3f0f3f?style=for-the-badge&logo=render&logoColor=white)](https://docs.render.com/free)
 
-[![Deploy on Toystack](https://img.shields.io/badge/Money_Heist_deploy_on_toystack-ff8c00?style=for-the-badge&logo=render&logoColor=white)](https://toystack.ai)
+[![Deploy on Toystack](https://img.shields.io/badge/THARU MD_deploy_on_toystack-ff8c00?style=for-the-badge&logo=render&logoColor=white)](https://toystack.ai)
 
 ## Watch YouTube Videos
 
-<a href="https://youtu.be/rVn5EqV_hGU?si=NErkefcqh6Y9C-OM" target="_blank">
+<a href="https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH" target="_blank">
   <img src="https://img.youtube.com/vi/rVn5EqV_hGU/hqdefault.jpg" alt="HOW TO GET MONGODB URL" width="320" height="180" style="border: none; cursor: pointer; margin-top: 10px;">
 </a>
 
-<a href="https://youtu.be/wk1K5O9yJYQ?si=DLkJyHUxOsuVlsP_" target="_blank">
+<a href="https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH" target="_blank">
   <img src="https://img.youtube.com/vi/wk1K5O9yJYQ/hqdefault.jpg" alt="HOW TO DEPLOY TALKDROVE" width="320" height="180" style="border: none; cursor: pointer;">
 </a>
 
-<a href="https://youtu.be/R1QjEKGp2L8?si=JOPnQQyJO8en2K2f" target="_blank">
+<a href="https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH" target="_blank">
   <img src="https://img.youtube.com/vi/R1QjEKGp2L8/hqdefault.jpg" alt="HOW TO DEPLOY HEROKU" width="320" height="180" style="border: none; cursor: pointer;">
 </a>
 
 
 <!-- Add this section at the bottom of your existing HTML -->
 <div class="social-buttons" align="center">
-  <a href="https://whatsapp.com/channel/0029Vb5WteL23n3Y11pTW83W" target="_blank">
+  <a href="https://chat.whatsapp.com/J085BIRq2F614d44rWS4Co" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="50" height="50" alt="WhatsApp Logo">
   </a>
-  <a href="https://t.me/dilalk" target="_blank">
+  <a href="https://t.me/SL_CRAZY_BOY" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50" height="50" alt="Telegram Logo">
   </a>
-  <a href="https://youtube.com/@dila_lk?si=QrRSHY33aKbdtZyf" target="_blank">
+  <a href="https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50" height="50" alt="YouTube Logo">
   </a>
 </div>
