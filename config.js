@@ -3,7 +3,7 @@ const fsm = require('fs'); if (fsm.existsSync('config.env')) require('dotenv').c
 THARU-MD
 
 SESSION_ID: process.env.SESSION_ID || "MONEY-HEIST-MD-TcUBSTQD#EBrgIauEPN5ygRoZSiAqu1difqyx94ot2QFvDvtGPvw-DILALK", 
-MONGODB: process.env.MONGODB || "",
+MONGODB: process.env.MONGODB || "mongodb+srv://nimesha00:<db_password>@cluster0.yn6fdfq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
 HEROKU_API: process.env.HEROKU_API || "HRKU-ed5c6fb8-14b9-4e21-b652-0df45300750f",
 OWNER_NUMBER:process.env.OWNER_NUMBER || "",
 
